@@ -1,0 +1,26 @@
+@import "tailwindcss" source("../");
+
+@theme {
+  --font-roboto: "Roboto", sans-serif;
+  --font-lobster: "Lobster", cursive;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-image: url("Aset/1_Home Page Aset/latar belakang web keseluruhan.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+}
+
+@keyframes kedip {
+  50% {
+    opacity: 0;
+  }
+}
