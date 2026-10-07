@@ -26,3 +26,7 @@ Website ini dibuat menggunakan:
 - HTML5
 - Tailwind CSS v4
 - JavaScript DOM
+
+## Link
+
+[gas](https://maomaoooo.vercel.app/)
